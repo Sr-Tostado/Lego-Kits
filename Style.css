@@ -1,0 +1,30 @@
+h1{
+    color:red;
+    font-size: 42px;
+    text-align: center;
+    background-color: darkgoldenrod;
+}
+body{
+    background-color: mediumspringgreen;
+}
+h2{
+    color:darkviolet;
+    font-size: 36px;
+    text-align: left;
+}
+table {
+font-size: 30px;
+color:firebrick;
+  }
+  hr{
+    color:black;
+    font-style:inherit;
+}
+h4{
+    font-size:35px;
+    color:saddlebrown;
+    text-align:center;
+}
+a{
+    font-size: 30px;
+}
